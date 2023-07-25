@@ -27,7 +27,7 @@ Information about each CVE id is stored as a unique file in the repo
 in a subdirectory based on the year as well as the numeric portion of
 the id, truncated by 1,000.  Thus, [2017/3xxx](2017/3xxx) is for
 CVE-2017-3000 - CVE-2017-3999, and [2017/1002xxx](2017/1002xxx) is for
-CVE-2017-1002000 - CVE-2017-1002999. 
+CVE-2017-1002000 - CVE-2017-1002999.,
 
 The CVE Team updates these files automatically every hour using
 information from the CVE List, provided there have been changes.  The
